@@ -9,9 +9,9 @@ spring:
     name: "takehome"
     request:
       limit:
-        authenticated: 3
-        unauthenticated: 2
-        time: 5
+        authenticated: 20
+        unauthenticated: 5
+        time: 1
 ---
 spring:
   config:
@@ -24,6 +24,6 @@ spring:
     name: "takehome"
     request:
       limit:
-        authenticated: 3
-        unauthenticated: 2
-        time: 5
+        authenticated: 20
+        unauthenticated: 5
+        time: 1
