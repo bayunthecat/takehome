@@ -1,0 +1,318 @@
+{
+  "data": {
+    "countries": [
+      {
+        "code": "AG",
+        "name": "Antigua and Barbuda",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "AI",
+        "name": "Anguilla",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "AW",
+        "name": "Aruba",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "BB",
+        "name": "Barbados",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "BL",
+        "name": "Saint Barthélemy",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "BM",
+        "name": "Bermuda",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "BQ",
+        "name": "Bonaire",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "BS",
+        "name": "Bahamas",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "BZ",
+        "name": "Belize",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "CR",
+        "name": "Costa Rica",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "CU",
+        "name": "Cuba",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "CW",
+        "name": "Curacao",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "DM",
+        "name": "Dominica",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "DO",
+        "name": "Dominican Republic",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "GD",
+        "name": "Grenada",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "GL",
+        "name": "Greenland",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "GP",
+        "name": "Guadeloupe",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "GT",
+        "name": "Guatemala",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "HN",
+        "name": "Honduras",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "HT",
+        "name": "Haiti",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "JM",
+        "name": "Jamaica",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "KN",
+        "name": "Saint Kitts and Nevis",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "KY",
+        "name": "Cayman Islands",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "LC",
+        "name": "Saint Lucia",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "MF",
+        "name": "Saint Martin",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "MQ",
+        "name": "Martinique",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "MS",
+        "name": "Montserrat",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "MX",
+        "name": "Mexico",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "NI",
+        "name": "Nicaragua",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "PA",
+        "name": "Panama",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "PM",
+        "name": "Saint Pierre and Miquelon",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "PR",
+        "name": "Puerto Rico",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "SV",
+        "name": "El Salvador",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "SX",
+        "name": "Sint Maarten",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "TC",
+        "name": "Turks and Caicos Islands",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "TT",
+        "name": "Trinidad and Tobago",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "VC",
+        "name": "Saint Vincent and the Grenadines",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "VG",
+        "name": "British Virgin Islands",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "VI",
+        "name": "U.S. Virgin Islands",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      }
+    ]
+  }
+}

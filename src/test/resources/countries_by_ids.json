@@ -1,0 +1,22 @@
+{
+  "data": {
+    "countries": [
+      {
+        "code": "CA",
+        "name": "Canada",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      },
+      {
+        "code": "US",
+        "name": "United States",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        }
+      }
+    ]
+  }
+}

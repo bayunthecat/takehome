@@ -1,0 +1,29 @@
+spring:
+  config:
+    activate:
+      on-profile: default
+  redis:
+    host: localhost
+    port: 6379
+  application:
+    name: "takehome"
+    request:
+      limit:
+        authenticated: 3
+        unauthenticated: 2
+        time: 5
+---
+spring:
+  config:
+    activate:
+      on-profile: docker
+  redis:
+    host: redis-service
+    port: 6379
+  application:
+    name: "takehome"
+    request:
+      limit:
+        authenticated: 3
+        unauthenticated: 2
+        time: 5
